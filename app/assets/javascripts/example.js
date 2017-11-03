@@ -51,5 +51,5 @@ function CurrentTime()
 
 var clock  = CurrentTime();    
 document.write('<h1>' + clock + '</h1>')
-document.write('<h1>' + greeting + '</h1>')
+document.write('<h2>' + greeting + '</h2>')
 console.log("can you see me?")

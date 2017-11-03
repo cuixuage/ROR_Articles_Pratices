@@ -5,16 +5,22 @@
   </head>
   <body>
       <!-- <h1>This is an example!</h1>  -->
-        <h3>
-        <a href="http://www.gucas.ac.cn/">welcome to UCAS! CLICK HERE</a>
-        </h3>
+        <h2>
+        <a href="http://www.gucas.ac.cn/">Welcome to UCAS! Click Here</a>
+        </h2>
         <p id="blackboard"></p> 
       <section id="blackboard"></section>
-      
+<!--      
   <p>
     <h1><%= link_to 'My Blog', controller: 'articles' %></h1>
   </p>
     </section>
-    
+-->    
+  <div class="center jumbotron">
+  <%= link_to "Write your Articles!", articles_path, class: "btn btn-lg btn-primary" %>
+  </div>
+
+
+
   </body>
 </html>
