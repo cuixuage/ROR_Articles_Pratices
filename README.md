@@ -9,7 +9,7 @@
     2.articles各个页面也包含了link to标签作为页面的跳转
 
 
-**简单说明**   
+**使用说明**   
 访问连接:  https://rails-helloworld-cuixuange.cs50.io  
 
 cloud9 部署后台运行为啥一关闭网页窗口就不能访问了?  我尽量让我的其它电脑一直不关闭网页窗口    
